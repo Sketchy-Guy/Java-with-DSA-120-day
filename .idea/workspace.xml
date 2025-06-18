@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0cb548d-8b3a-4094-9b3f-ebf417754519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basics revision/src/Day2ofJava/calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basics revision/src/Day3/armstrong_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basics revision/src/Day3/prime_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basics revision/src/Day3/switchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java with DSA 120 days/Day2ofJava/calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java with DSA 120 days/Day2ofJava/reverseOfNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java with DSA 120 days/Day3/armstrong_number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java with DSA 120 days/Day3/prime_number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java with DSA 120 days/Day3/switchCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Basics revision/src/Day2ofJava/reverseOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Basics revision/src/Day2ofJava/reverseOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java with DSA 120 days.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java with DSA 120 days.iml" afterDir="false" />
-    </list>
+    <list default="true" id="f0cb548d-8b3a-4094-9b3f-ebf417754519" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/untitled" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
@@ -53,16 +39,24 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.armstrong_number.executor": "Run",
+    "Application.arrayInput.executor": "Run",
+    "Application.arrayList.executor": "Run",
+    "Application.arrays.executor": "Run",
     "Application.calculator.executor": "Run",
     "Application.caseCheck.executor": "Run",
     "Application.count_nums.executor": "Run",
     "Application.fibonacciSeries.executor": "Debug",
     "Application.largest.executor": "Run",
     "Application.loops.executor": "Debug",
+    "Application.maxEleInAraray.executor": "Run",
+    "Application.maxEleInArr.executor": "Run",
     "Application.prime_number.executor": "Run",
+    "Application.reverseAnArray.executor": "Run",
     "Application.sumOfTwoNumbers.executor": "Run",
+    "Application.swapEleInArray.executor": "Run",
     "Application.switchCase.executor": "Run",
     "Application.temp_conversion.executor": "Run",
+    "Application.twoDArrays.executor": "Run",
     "Application.while_loop.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -74,61 +68,13 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Java with DSA 120 days",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="ls -la" />
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="count_nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2ofJava.count_nums" />
-      <module name="Java with DSA 120 days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2ofJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1RevisionofJava.sumOfTwoNumbers" />
-      <module name="Java with DSA 120 days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day1RevisionofJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="while_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2ofJava.while_loop" />
-      <module name="Java with DSA 120 days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2ofJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.count_nums" />
-        <item itemvalue="Application.while_loop" />
-        <item itemvalue="Application.sumOfTwoNumbers" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -168,6 +114,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/DSA with Java" />
+      <path value="$PROJECT_DIR$/javatesting" />
+      <path value="$PROJECT_DIR$/untitled" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
